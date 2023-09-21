@@ -1,0 +1,60 @@
+-- Insertar datos en la tabla "jugador"
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (1, 'Luis', 'Tiago', 'Volpi', 'Santa Catarina, Brasil', 'Volpi', 1, 'Portero', 30, 2200000.00);
+
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (2, 'Valber Robert', 'Huerta', 'Jerez', 'Melipilla, Chile', 'Huerta', 4, 'Defensa central (DC)', 29, 3500000.00);
+
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (3, 'Andres', 'Felipe', 'Mosquera', 'Turbo, Colombia', 'Mosquera', 26, 'Defensa central (DC)', 33, 1500000.00);
+
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (4, 'Jesus Fernando', 'Piñuelas', 'Sandoval', 'Baja California Sur, México', 'Piñuelas', 3, 'Defensa central (DC)', 25, 900000.00);
+
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (5, 'Adrian', 'Mora', 'Barraza', 'Hidalgo, México', 'El Barraza', 27, 'Defensa central (DC)', 26, 400000.00);
+
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (6, 'Mauricio', 'Andre', 'Isais', 'Texas, Estados Unidos', 'Andres', 12, 'Lateral Izquierdo (LI)', 22, 4000000.00);
+
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (7, 'Brian', 'Garcia', 'Garcia', 'León, México', 'El Garza', 17, 'Lateral Derecho (LD)', 25, 3000000.00);
+
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (8, 'Claudio Andres', 'Baeza', 'Baeza', 'Los Ángeles, Chile', 'Baeza', 23, 'Pivote', 29, 5500000.00);
+
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (9, 'Carlos Emilio', 'Orrontia', 'Treviño', 'Ciudad de México, México', 'Charal', 8, 'Lateral Derecho (LD)', 32, 1000000);
+
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (10, 'Tomás', 'Belmonte', 'B', 'Buenos Aires, Argentina', 'Toto', 5, 'Pivote', 25, 5000000.00);
+
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (11, 'Jesús Alejandro', 'Venegas', 'Vergara', 'Colima, México', 'El Vergara', 30, 'Pivote', 28, 700000.00);
+
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (12, 'Marcel Alejandro', 'Ruiz', 'Suárez', 'Yucatán, México', 'Marsex Ruiz', 14, 'Medio Centro (MC)', 22, 5000000.00);
+
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (13, 'Fernando', 'Navarro', 'Morán', 'Ciudad de México, México', 'Navarro', 18, 'Medio Centro (MC)', 34, 1200000.00);
+
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (14, 'Jesús Alberto', 'Angulo', 'Uriarte', 'Sinaloa, México', 'Stich', 10, 'Medio Centro Ofensivo (MO)', 26, 1200000.00);
+
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (15, 'Maximiliano Javier', 'Araújo', 'Vilches', 'Montevideo, Uruguay', 'El Araújo', 11, 'Extremo Izquierdo (EI)', 26, 2000000.00);
+
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (16, 'Jean David', 'Meneses', 'Villarroel', 'Quillota, Chile', 'Takeshi', 16, 'Extremo Izquierdo (EI)', 30, 5000000.00);
+
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (17, 'Juan Pablo', 'Domínguez', 'Chonteco', 'Ecatepec Morelos, México', 'Pablito', 7, 'Extremo Derecho (ED)', 24, 800000.00);
+
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (18, 'Pedro Raul', 'Garay', 'Da Silva', 'Porto Alegre, Brasil', 'La piedra', 26, 'Delantero central (DC)', 26, 5000000.00);
+
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (19, 'Robert Osmar', 'Morales', 'Benítez', 'Concepción, Paraguay', 'Robert', 31, 'Delantero central (DC)', 24, 1800000.00);
+
+INSERT INTO jugador (id_jugador, nombre, apell_pat, apell_mat, lugar_nacimiento, apodo_j, no_playera, posicion_c, edad, precio_jug)
+VALUES (20, 'Édgar Iván', 'López', 'Rodríguez', 'Tijuana, México', 'Gacelo', 19, 'Delantero central (DC)', 24, 1500000.00);
